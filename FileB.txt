@@ -1,3 +1,4 @@
 This is File B
 Lets make the change
 Making another changes 
+This is for sqash merge
